@@ -25,4 +25,4 @@ To run the code:
     npx hardhat run scripts/interact.js --network rinkeby
     ```
 
-That's it! you're good to go. You can edit the `.update()` method on `line 23` in file `interact.js` to change the update message to whatever you want and then run the script as well.
+That's it! you're good to go. You can edit the `.update()` method on `line 23` in file `scripts/interact.js` to change the update message to whatever you want and then run the script as well.
